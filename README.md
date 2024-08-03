@@ -23,15 +23,15 @@ Dataset source:- https://www.kaggle.com/datasets/paultimothymooney/kermany2018
 
 ## Workflow is given in the following diagram
 
-[wrkflow-RP.pdf](https://github.com/user-attachments/files/16479375/wrkflow-RP.pdf)
 
+![wrkflow-RP-1](https://github.com/user-attachments/assets/2ad13ba5-109b-4b0d-a823-8ed76c70b7b2)
 
 ## Model Architecture
 The model used in this project combines CNNs and Transformers to leverage both local feature extraction and global context understanding. The CNN component is used for initial feature extraction, followed by a Transformer for capturing long-range dependencies.
 
 
-[confoarch.pdf](https://github.com/user-attachments/files/16479384/confoarch.pdf)
 
+![confoarch-1](https://github.com/user-attachments/assets/5599f593-807e-4705-aaa2-8d0708bbef1e)
 
 ## Training
 The model is trained using the following key steps:
