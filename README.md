@@ -8,6 +8,7 @@
 
 ## Introduction
 This project focuses on classifying retinal OCT (Optical Coherence Tomography) images using a combination of Convolutional Neural Networks (CNN) and Transformer architectures. The goal is to accurately categorize retinal OCT images into different classes, improving diagnostic accuracy for eye conditions.
+A short desription for problem is given in the following figure.
 
 
 ![oct_dise](https://github.com/user-attachments/assets/4cd9c9fc-1b83-4eb5-9282-4310a7d355e8)
@@ -27,7 +28,7 @@ Dataset source:- https://www.kaggle.com/datasets/paultimothymooney/kermany2018
 ![wrkflow-RP-1](https://github.com/user-attachments/assets/2ad13ba5-109b-4b0d-a823-8ed76c70b7b2)
 
 ## Model Architecture
-The model used in this project combines CNNs and Transformers to leverage both local feature extraction and global context understanding. The CNN component is used for initial feature extraction, followed by a Transformer for capturing long-range dependencies.
+The model used in this project combines CNNs and Transformers to leverage both local feature extraction and global context understanding. The CNN component is used for initial feature extraction, followed by a Transformer for capturing long-range dependencies. Architecture used in this project is given in the following diagram and is trained from scratch.
 
 
 
