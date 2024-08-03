@@ -3,8 +3,13 @@
 
 # Retinal OCT Image Classification using Convolutional-Transformer
 
+
+![cm_conf](https://github.com/user-attachments/assets/f42454be-602c-49a2-af76-dd2a63f90e30)
+
 ## Introduction
 This project focuses on classifying retinal OCT (Optical Coherence Tomography) images using a combination of Convolutional Neural Networks (CNN) and Transformer architectures. The goal is to accurately categorize retinal OCT images into different classes, improving diagnostic accuracy for eye conditions.
+
+
 
 ## Dataset
 The dataset used in this project consists of retinal OCT images, categorized into 4 classes i,e. Diabetic Macular Edema (DME), Choroidal Neovascularization (CNV), Druesen, Normal. The dataset is preprocessed and split into training, validation, and test sets.
